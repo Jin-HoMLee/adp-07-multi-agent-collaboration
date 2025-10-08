@@ -1,1 +1,6 @@
 ipykernel==6.30.1
+
+# for 01_CrewAI_Hands-On Code Example_Chapter 7: Multi-Agent Collaboration.ipynb
+dotenv==0.9.9
+crewai==0.201.1
+langchain-google-genai==2.1.12
